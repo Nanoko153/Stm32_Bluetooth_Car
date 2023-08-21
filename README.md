@@ -1,1 +1,2 @@
-"# Stm32_Bluetooth_Car\r\nʹ��ֱ�����ٵ���ٿ�С����ͨ��HC-05����ģ����п��ƣ��ɼ���MCU6050�����ǵ�����ͨ��IIC��ʾ��OLED��Ļ�Լ�ͨ������ͨ�Ž����ݷ��͵�������������λ����" 
+"# Stm32_Bluetooth_Car"
+使用直流减速电机操控小车，通过HC-05蓝牙模块进行控制，采集的MCU6050陀螺仪等数据通过IIC显示在OLED屏幕以及通过串口通信将数据发送到连接蓝牙的上位机。
